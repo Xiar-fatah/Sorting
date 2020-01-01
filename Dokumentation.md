@@ -1,5 +1,5 @@
 
-# ovn7
+# Sorting
 Detta bibliotek innehåller flera sorterings algoritmer för att sortera arrays.
 
 Data är i vanlig fall inte sorterad. Därmed behövs den sorteras för att kunna appliceras och därför används sorteringsalgoritmer som finns i detta bibliotek.
